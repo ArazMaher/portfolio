@@ -1,0 +1,46 @@
+{
+    "projects": [
+        {
+            "title": "Website Aliu IT",
+            "description": "A website for Aliu IT.",
+            "image": "/projects/aliuit.png",
+            "tags": ["NextJS", "shadcnUI", "Typescript"],
+            "url": "https://aliuit.de"
+        },
+        {
+            "title": "Spring Authentication",
+            "description": "Simple Spring authentication Project with JWT and MySQL for learning purpose ",
+            "image": "/projects/placeholder.svg",
+            "tags": ["Java", "Spring Boot", "MySQL", "JWT"],
+            "url": "https://github.com/maxi-schaefer/spring-authentication"
+        },
+        {
+            "title": "Invana",
+            "description": "Designed with simplicity and trust in mind, it's built to empower developers, not get in their way. ",
+            "image": "/projects/invana.png",
+            "tags": ["Typescript", "Python", "MongoDB", "Java", "shadcnUI"],
+            "url": "https://github.com/maxi-schaefer/invana"
+        },
+        {
+            "title": "Simple IP Manager",
+            "description": "A blazing-fast IP profile switcher for sysadmins and network engineers — built with Electron, React, and TypeScript.",
+            "image": "/projects/simple-ip-manager.png",
+            "tags": ["Typescript", "Javascript", "Powershell"],
+            "url": "https://github.com/maxi-schaefer/simple-ip-manager"
+        },
+        {
+            "title": "Smaug RAT",
+            "description": "A in python written Remote Access Tool with a custom payload builder, config and much more.",
+            "image": "https://raw.githubusercontent.com/maxi-schaefer/Smaug-RAT/main/images/demo.png",
+            "tags": ["Python", "Sockets"],
+            "url": "https://github.com/maxi-schaefer/Smaug-RAT"
+        },
+        {
+            "title": "Vortex",
+            "description": "Vortex is a in java written template for complex java applications with mysql support and custom configs. ",
+            "image": "https://raw.githubusercontent.com/maxi-schaefer/vortex/refs/heads/main/demo.png",
+            "tags": ["Java", "MySQL", "Maven"],
+            "url": "https://github.com/maxi-schaefer/vortex"
+        }
+    ]
+}
