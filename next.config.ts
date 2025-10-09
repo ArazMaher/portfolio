@@ -1,5 +1,6 @@
 const nextConfig = {
   output: 'export',
+  distDir: "out",
   basePath: '/my-portfolio',
   images: {
     remotePatterns: [
