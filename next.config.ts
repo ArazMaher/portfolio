@@ -1,6 +1,6 @@
 const nextConfig = {
   output: 'export',
-  basePath: '/https://ArazMaher.github.io/my-portfolio',
+  basePath: '/my-portfolio',
   typescript: {
     ignoreBuildErrors: true,
   },
