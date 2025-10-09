@@ -3,28 +3,28 @@
         {
             "title": "Website Aliu IT",
             "description": "A website for Aliu IT.",
-            "image": "/projects/aliuit.png",
+            "image": "/portfolio/projects/aliuit.png",
             "tags": ["NextJS", "shadcnUI", "Typescript"],
             "url": "https://aliuit.de"
         },
         {
             "title": "Spring Authentication",
             "description": "Simple Spring authentication Project with JWT and MySQL for learning purpose ",
-            "image": "/projects/placeholder.svg",
+            "image": "/portfolio/projects/placeholder.svg",
             "tags": ["Java", "Spring Boot", "MySQL", "JWT"],
             "url": "https://github.com/maxi-schaefer/spring-authentication"
         },
         {
             "title": "Invana",
             "description": "Designed with simplicity and trust in mind, it's built to empower developers, not get in their way. ",
-            "image": "/projects/invana.png",
+            "image": "/portfolio/projects/invana.png",
             "tags": ["Typescript", "Python", "MongoDB", "Java", "shadcnUI"],
             "url": "https://github.com/maxi-schaefer/invana"
         },
         {
             "title": "Simple IP Manager",
             "description": "A blazing-fast IP profile switcher for sysadmins and network engineers — built with Electron, React, and TypeScript.",
-            "image": "/projects/simple-ip-manager.png",
+            "image": "/portfolio/projects/simple-ip-manager.png",
             "tags": ["Typescript", "Javascript", "Powershell"],
             "url": "https://github.com/maxi-schaefer/simple-ip-manager"
         },
