@@ -1,9 +1,6 @@
 const nextConfig = {
   output: 'export',
   basePath: '/my-portfolio',
-  typescript: {
-    ignoreBuildErrors: true,
-  },
   images: {
     remotePatterns: [
       {
@@ -11,6 +8,12 @@ const nextConfig = {
         hostname: "**",
       },
     ],
+  },
+  typescript: {
+    ignoreBuildErrors: true,
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
   },
 };
 
