@@ -5,7 +5,7 @@ export function SpotifyNowPlayingContainer() {
   const track = {
     title: "Tomhet",
     artist: "Burzum",
-    albumArtUrl: "./images/tomhet.jpg",
+    albumArtUrl: `${process.env.NEXT_PUBLIC_BASE_PATH}/images/tomhet.jpg`,
     songUrl: "https://www.youtube.com/watch?v=aTtNe8E0AoQ&list=RDaTtNe8E0AoQ&start_radio=1",
   };
 
