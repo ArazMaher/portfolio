@@ -9,21 +9,21 @@
         },
         {
             "title": "Weather App",
-            "description": "Weatherly — a sleek, responsive weather app providing real-time forecasts, detailed metrics, and interactive maps with light/dark mode support",
+            "description": "Weatherly — responsive weather app with real-time forecasts, metrics, and interactive maps",
             "image": "/portfolio/projects/weather.png",
             "tags": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Radix UI", "Recharts", "React Leaflet", "next-themes"],
             "url": "https://arazmaher.github.io/weather-app/"
         },
         {
             "title": "Landing Page",
-            "description": "StarForge is a modern UI/UX website built with Next.js, React, and Tailwind CSS, featuring sleek design, smooth animations, and an exemplary user experience.",
+            "description": "StarForge — modern UI/UX site with sleek design, smooth animations, and great user experience",
             "image": "/portfolio/projects/Landing.png",
             "tags": ["Typescript", "React", "Next", "Tailwind"],
             "url": "https://arazmaher.github.io/ai-lnading-page/"
         },
         {
             "title": "Fitland",
-            "description": "Fitland is a responsive e-commerce app built with React and TypeScript, allowing users to browse, like, and purchase sports products with data stored locally for a fast, backend-free experience.",
+            "description": "Fitland — responsive e-commerce app for browsing and buying sports products, built with React and TypeScript",
             "image": "/portfolio/projects/fitland.png",
             "tags": ["Typescript", "React", "Mui"],
             "url": "https://fitland-team.github.io/fitland-shop/"
