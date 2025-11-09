@@ -1,11 +1,11 @@
 {
     "projects": [
         {
-            "title": "Website Aliu IT",
-            "description": "A website for Aliu IT.",
-            "image": "/portfolio/projects/aliuit.png",
+            "title": "My Portfolio",
+            "description": "A website for Portfolio.",
+            "image": "/portfolio/projects/portfolio.png",
             "tags": ["NextJS", "shadcnUI", "Typescript"],
-            "url": "https://aliuit.de"
+            "url": "https://arazmaher.github.io/portfolio/"
         },
         {
             "title": "Spring Authentication",
