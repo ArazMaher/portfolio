@@ -16,10 +16,10 @@
         },
         {
             "title": "Landing Page",
-            "description": "StarForge is a Modern UI/UX website, developed using Next.js, React, and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general",
+            "description": "StarForge is a modern UI/UX website built with Next.js, React, and Tailwind CSS, featuring sleek design, smooth animations, and an exemplary user experience.",
             "image": "/portfolio/projects/Landing.png",
             "tags": ["Typescript", "React", "Next", "Tailwind"],
-            "url": "arazmaher.github.io/ai-lnading-page/"
+            "url": "https://arazmaher.github.io/ai-lnading-page/"
         },
         {
             "title": "Fitland",
