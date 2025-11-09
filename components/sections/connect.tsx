@@ -51,7 +51,6 @@ export default function ContactSection({ sectionsRef }: { sectionsRef: RefObject
             {
               [
                 { name: "Github", handle: "@ArazMaher", url: "https://github.com/ArazMaher", icon: Github },
-                { name: "Discord", handle: "@gokimax", url: "https://discord.com/users/1106596197306744882", icon: AiFillDiscord },
                 { name: "Telegram", handle: "@Oghlanyoldashi", url: "https://t.me/Oghlanyoldashi", icon: SiTelegram },
               ].map((social) => (
                 <Link
