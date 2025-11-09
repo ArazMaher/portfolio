@@ -1,7 +1,7 @@
-# Maxi Schäfer – Minimalistic Portfolio
+# Araz Maher – Minimalistic Portfolio
 
 <a href="https://gokimax.dev">
-  <img src="./assets/demo.png" alt="Demo" width="100%" />
+  <img src="./assets/portfolio.png" alt="Demo" width="100%" />
 </a>
 
 The code behind my personal site. :)
@@ -30,7 +30,7 @@ The code behind my personal site. :)
 ### Installation
 
 ```sh
-git clone https://github.com/maxi-schaefer/minimalistic-portfolio.git
+git clone https://github.com/ArazMaher/portfolio.git
 cd minimalistic-portfolio
 npm install
 ```
@@ -79,4 +79,4 @@ config.json         # Project showcase data
 
 ---
 
-> Built with ♥️ by Maxi
+> Built with ♥️ by Araz

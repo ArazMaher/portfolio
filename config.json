@@ -8,39 +8,25 @@
             "url": "https://arazmaher.github.io/portfolio/"
         },
         {
-            "title": "Spring Authentication",
-            "description": "Simple Spring authentication Project with JWT and MySQL for learning purpose ",
-            "image": "/portfolio/projects/placeholder.svg",
-            "tags": ["Java", "Spring Boot", "MySQL", "JWT"],
-            "url": "https://github.com/maxi-schaefer/spring-authentication"
+            "title": "Weather App",
+            "description": "Weatherly — a sleek, responsive weather app providing real-time forecasts, detailed metrics, and interactive maps with light/dark mode support",
+            "image": "/portfolio/projects/weather.svg",
+            "tags": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Radix UI", "Recharts", "React Leaflet", "next-themes"],
+            "url": "https://arazmaher.github.io/weather-app/"
         },
         {
-            "title": "Invana",
-            "description": "Designed with simplicity and trust in mind, it's built to empower developers, not get in their way. ",
-            "image": "/portfolio/projects/invana.png",
-            "tags": ["Typescript", "Python", "MongoDB", "Java", "shadcnUI"],
-            "url": "https://github.com/maxi-schaefer/invana"
+            "title": "Landing Page",
+            "description": "StarForge is a Modern UI/UX website, developed using Next.js, React, and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general",
+            "image": "/portfolio/projects/Landing.png",
+            "tags": ["Typescript", "React", "Next", "Tailwind"],
+            "url": "https://github.com/ArazMaher/ai-lnading-page"
         },
         {
-            "title": "Simple IP Manager",
-            "description": "A blazing-fast IP profile switcher for sysadmins and network engineers — built with Electron, React, and TypeScript.",
-            "image": "/portfolio/projects/simple-ip-manager.png",
-            "tags": ["Typescript", "Javascript", "Powershell"],
-            "url": "https://github.com/maxi-schaefer/simple-ip-manager"
-        },
-        {
-            "title": "Smaug RAT",
-            "description": "A in python written Remote Access Tool with a custom payload builder, config and much more.",
-            "image": "https://raw.githubusercontent.com/maxi-schaefer/Smaug-RAT/main/images/demo.png",
-            "tags": ["Python", "Sockets"],
-            "url": "https://github.com/maxi-schaefer/Smaug-RAT"
-        },
-        {
-            "title": "Vortex",
-            "description": "Vortex is a in java written template for complex java applications with mysql support and custom configs. ",
-            "image": "https://raw.githubusercontent.com/maxi-schaefer/vortex/refs/heads/main/demo.png",
-            "tags": ["Java", "MySQL", "Maven"],
-            "url": "https://github.com/maxi-schaefer/vortex"
+            "title": "Fitland",
+            "description": "Fitland is a responsive e-commerce app built with React and TypeScript, allowing users to browse, like, and purchase sports products with data stored locally for a fast, backend-free experience.",
+            "image": "/portfolio/projects/fitland.png",
+            "tags": ["Typescript", "React", "Mui"],
+            "url": "https://fitland-team.github.io/fitland-shop/"
         }
     ]
 }
