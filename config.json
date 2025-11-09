@@ -10,7 +10,7 @@
         {
             "title": "Weather App",
             "description": "Weatherly — a sleek, responsive weather app providing real-time forecasts, detailed metrics, and interactive maps with light/dark mode support",
-            "image": "/portfolio/projects/weather.svg",
+            "image": "/portfolio/projects/weather.png",
             "tags": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Radix UI", "Recharts", "React Leaflet", "next-themes"],
             "url": "https://arazmaher.github.io/weather-app/"
         },
@@ -19,7 +19,7 @@
             "description": "StarForge is a Modern UI/UX website, developed using Next.js, React, and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general",
             "image": "/portfolio/projects/Landing.png",
             "tags": ["Typescript", "React", "Next", "Tailwind"],
-            "url": "https://github.com/ArazMaher/ai-lnading-page"
+            "url": "arazmaher.github.io/ai-lnading-page/"
         },
         {
             "title": "Fitland",
