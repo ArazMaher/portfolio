@@ -9,7 +9,7 @@ export const translation = {
             desc: 'Frontend Developer building end-to-end digital solutions at the intersection of',
             design: 'desing',
             technology: 'technology',
-            and: 'and',
+            and: ' and',
             userExperience: 'user experience',
             AvailableForWork: 'Available for work',
             iran: 'Iran'
